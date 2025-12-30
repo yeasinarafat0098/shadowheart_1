@@ -1,2 +1,2 @@
-discord.py
-PyNaCl
+discord.py==2.6.4
+PyNaCl==1.6.1
